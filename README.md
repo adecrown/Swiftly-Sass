@@ -6,7 +6,7 @@ Some form of social media
 This product was only tested on chrome web browser and partially tested on Safari
 
 
-If the university VM is been used use **php -S 0:8080 -t Swiftly-Sass** to start the php server.
+If the university VM is been used use ***php -S 0:8080 -t Swiftly-Sass*** to start the php server.
 
 4 Steps to get the site up and running
 

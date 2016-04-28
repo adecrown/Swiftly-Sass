@@ -4,9 +4,9 @@ Some form of social media
 ####Installation Manual
 
 This product was only tested on chrome web browser and partially tested on Safari
-All the web files can be found inside the “Web” folder inside the “web_coursework” folder. For ease of use make the “Web” folder the root directory.
 
-If the university VM is been used use “php -S 0:8080 -t Swiftly-Sass” to start the php server.
+
+If the university VM is been used use **php -S 0:8080 -t Swiftly-Sass** to start the php server.
 
 4 Steps to get the site up and running
 

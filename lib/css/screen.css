@@ -1,0 +1,198 @@
+
+@media screen and (max-width: 999px)
+{
+  .search,.search input,#searchResult,.foot,.profile,article{
+
+    width: 100%;
+
+  }
+
+  .coursename,.universityname,.following
+  {
+    width: 40%;
+  }
+  .profileimage,.pic
+  {
+    width: 20%;
+  }
+  .pic img{
+      max-width: 100%;
+  }
+.level
+{
+  width: 37%;
+}
+.message
+{
+  width: 3%;
+}
+.ftitle,.ptitle
+{
+    width: 33%;
+    font-size: 1.9vw;
+}
+.uniname,.cname
+{
+  font-size: 2.5vw;
+}
+.lvl{
+  font-size: 2.1vw;
+}
+
+.uploads,.subjectF,.subjectT,.uploadsection,.subjectTitle{
+  width: 30%;
+}
+
+.subjectF p,.subjectT p{
+  float: none;
+}
+
+.groupsName,.fivecontribution,.liveproblems,.topicsection
+{
+  width: 68%;
+}
+
+.selector,.but-go{
+
+  width: 85%;
+
+}
+
+.liveproblems p, .fivecontribution p, .groupsName p, .unsquestion p
+{
+  width: 98%;
+}
+
+
+.logo
+{
+  width: 20%;
+}
+
+
+#topictitle,#topic,#topictags
+{
+  width: 95%;
+}
+.topicsection textarea
+{
+  padding: 0;
+}
+
+.topicsubmit
+{
+  float: none;
+  margin-bottom: 10px;
+}
+#comment,#vnote,#vtitle,#pcomment
+{
+  width: 100%;
+  margin-left: 0;
+}
+
+}
+
+
+
+
+@media screen and (max-width: 900px)
+{
+  .unsquestion2
+  {
+    height: auto !important;
+  }
+  .logo
+  {
+    width: 100%;
+    padding: 0;
+    float: none;
+  }
+  nav{
+    float: none;
+    width: 100%
+  }
+
+  .subjectF p,.subjectT p{
+    float: right;
+  }
+
+  .search{
+      float: none;
+  }
+
+
+
+.uploads,.subjectF,.subjectT{
+  width: 100%;
+  float: left;
+}
+
+.groupsName,.fivecontribution,.liveproblems
+{
+  width: 100%;
+  float: left;
+}
+
+article
+{
+  margin-top: 20px;
+}
+
+
+.profile
+{
+  margin-top: 20px;
+  float: none;
+}
+
+.uploadPopup
+{
+  width: 90%;
+}
+
+.level
+{
+  width: 33%;
+}
+.message
+{
+  width: 7%;
+}
+.topicsection
+{
+  width: 100%;
+}
+.subjectTitle
+{
+  width: 100%;
+}
+.subjectT div, .subjectF div
+{
+  width: 98%;
+}
+
+
+}
+
+
+@media screen and (max-width: 500px)
+{
+.ftitle,.ptitle,.uniname,.lvl
+{
+    font-weight: bold;
+}
+
+}
+@media screen and (max-width: 380px)
+{
+  nav a
+  {
+  font-size: 14px;
+  }
+}
+
+
+@media screen and (max-width: 700px)
+{
+
+}

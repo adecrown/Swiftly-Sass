@@ -1,0 +1,18 @@
+{
+  "name": "swiftlysass",
+  "version": "0.0.1",
+  "description": "swiftly sass",
+  "author": "up720163",
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "websocket": "^1.0.22",
+    "ws": "^1.0.1"
+  },
+  "scripts": {
+     "start": "node lib/js/server.js"
+   }
+}
